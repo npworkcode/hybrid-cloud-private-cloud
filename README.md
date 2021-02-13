@@ -25,4 +25,4 @@
   <li>Test solution by deleting the production database and restore to ensure application continuity</li>
  </ol>
  <br>
- ![Private Cloud](/project1/images/0-start.jpg)
+ ![Private Cloud](/project1/images/0-start.jpg?raw=true)
