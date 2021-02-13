@@ -23,4 +23,5 @@
  6) Set replication schedule of 1 hour</li>
  7) Test solution by deleting the production database and restore to ensure application continuity</li>
  
+ 
 ![Private Cloud](/project1/images/0-start.jpg)
