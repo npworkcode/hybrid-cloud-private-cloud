@@ -8,7 +8,13 @@ trigger: none
 pool:
   vmImage: ubuntu-latest
 
+variables:
+  - group: TestSSH
+  
 steps:
+
+
+
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 
